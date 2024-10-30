@@ -1,23 +1,25 @@
 # 👋 ¡Hola! Soy Jair David Castro Sairitupac
 
-### 🌐 Estudiante de Ingeniería de Sistemas | Apasionado por Redes y Servidores
+### 🌐 Estudiante de Ingeniería de Sistemas | Apasionado por Redes, Servidores y Ciberseguridad
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante de Ingeniería de Sistemas con un enfoque especial en **infraestructura de redes** y **administración de servidores**. Me motiva aprender y aplicar nuevas tecnologías para resolver problemas de conectividad y optimizar la gestión de sistemas.
+Bienvenido a mi perfil de GitHub. Soy un estudiante de Ingeniería de Sistemas con una gran inclinación hacia **redes**, **servidores** y **ciberseguridad**. Aunque sé programar en lenguajes como PHP, Java, y especialmente Python (mi favorito), mi interés va más allá de la programación: me motiva entender y asegurar la infraestructura informática.
 
 ---
 
 ### 🛠️ Sobre mí
 
-Actualmente, profundizo en áreas como **arquitectura de redes** y **configuración de servidores**, buscando construir un perfil técnico sólido y preparado para los retos de la industria. Estoy en constante aprendizaje y disfruto trabajando en proyectos que me permiten experimentar con distintas configuraciones y enfoques de seguridad en redes.
+Soy un entusiasta autodidacta que explora el mundo de la ciberseguridad y la administración de sistemas. Disfruto aprender y experimentar con herramientas como **Excel** y **Power BI** para análisis de datos y mejorar mi eficiencia. Me considero del lado del “mal” en el buen sentido, inspirándome en expertos como Chema Alonso para entender la seguridad desde todos los ángulos.
 
 ---
 
 ### ⚙️ Habilidades y Herramientas
 
-- **Networking:** Configuración de redes, administración de routers y switches
-- **Servidores:** Configuración y optimización de servidores Linux y Windows
-- **Herramientas:** Git, Docker, Virtualización con VMware y VirtualBox
+- **Networking & Servidores:** Configuración de redes, administración de servidores en Linux y Windows
+- **Ciberseguridad:** Curioso en temas de seguridad ofensiva y defensiva, con enfoque en protección de infraestructuras
+- **Herramientas de Análisis:** Excel, Power BI, y exploración de datos
+- **Lenguajes de programación:** Python, PHP, Java (aunque prefiero centrarme en infraestructura)
 
 ---
 
-¡Gracias por visitar mi perfil! Siempre abierto a colaborar en proyectos interesantes. 🚀
+Gracias por visitar mi perfil. Siempre en busca de aprender más y contribuir a proyectos interesantes en infraestructura y seguridad. 🚀
+
